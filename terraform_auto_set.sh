@@ -1,4 +1,4 @@
-# /bin/bash/
+#!/bin/bash/
 
 #terraform_ver="terraform12"
 #terraform_ver="terraform13"
